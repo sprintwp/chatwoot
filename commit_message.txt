@@ -1,0 +1,1 @@
+feat: remove branding from chat widget
